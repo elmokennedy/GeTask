@@ -1,0 +1,11 @@
+﻿@using Sitecore.Mvc
+
+<div style="margin-top: 20px; margin-bottom: 20px;">
+    <span style="font: bold 18px Arial;">@Html.Sitecore().Field("Title")</span>
+</div>
+<div style="margin-top: 20px; margin-bottom: 20px;">
+    @Html.Sitecore().Field("Description")
+</div>
+<div style="margin-top: 20px; margin-bottom: 20px;">
+    @Html.Sitecore().Placeholder("postsContent")
+</div>

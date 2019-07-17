@@ -1,0 +1,20 @@
+﻿@using Sitecore.Mvc
+@model Feature.MyPosts.Models.PostTable
+
+<table id="postsTable" cellpadding="8" cellspacing="0" border="1">
+    <tr>
+        <th>@Html.Sitecore().Field("UserId", Model.TableInfoItem)</th>
+        <th>@Html.Sitecore().Field("Title", Model.TableInfoItem)</th>
+        <th>@Html.Sitecore().Field("Description", Model.TableInfoItem)</th>
+    </tr>
+    @foreach (var post in Model.Posts)
+    {
+        <tr class="postItem">
+            <td style="text-align: center;">@post.UserId</td>
+            <td style="text-align: center;">@post.Title</td>
+            <td style="text-align: center;">@post.Body</td>
+        </tr>
+    }
+</table>
+
+@Html.Sitecore().Placeholder("tableControl")
