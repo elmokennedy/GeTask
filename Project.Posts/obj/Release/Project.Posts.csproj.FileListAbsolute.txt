@@ -89,3 +89,9 @@ C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Project.Posts\obj\Release\Projec
 C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Project.Posts\obj\Release\Project.Posts.csproj.CopyComplete
 C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Project.Posts\obj\Release\Project.Posts.dll
 C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Project.Posts\obj\Release\Project.Posts.pdb
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Project.Posts\bin\Kamsar.WebConsole.dll
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Project.Posts\bin\MicroCHAP.dll
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Project.Posts\bin\Rainbow.dll
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Project.Posts\bin\Rainbow.Storage.Sc.dll
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Project.Posts\bin\Rainbow.Storage.Yaml.dll
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Project.Posts\bin\Unicorn.dll

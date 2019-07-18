@@ -1,0 +1,17 @@
+﻿---
+ID: "750efc8c-18ec-4bfa-bb34-127ba714f245"
+Parent: "c7e984ab-05f6-422c-9b26-a05500138cc7"
+Template: "1b171435-5c76-45dc-abca-225e72e077f7"
+Path: /sitecore/content/Home/GeTask/Foundation/ControlElements/Load More Button Info
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190716T151501Z
+    - ID: "bbf8f36f-8cd1-4318-89c3-be9d290ac509"
+      Hint: LoadMoreItemsCount
+      Value: 3

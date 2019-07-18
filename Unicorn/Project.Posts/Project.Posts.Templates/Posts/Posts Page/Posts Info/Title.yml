@@ -1,0 +1,21 @@
+﻿---
+ID: "d6c74e8d-3818-4ebc-8eeb-4c328218431d"
+Parent: "58900930-5cb8-4c9f-a5c3-725de0c3bdef"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/GeTask/Project/Posts/Posts Page/Posts Info/Title
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190715T141539Z

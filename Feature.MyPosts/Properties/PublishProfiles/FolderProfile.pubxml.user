@@ -9,6 +9,42 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <_PublishTargetUrl>C:\inetpub\wwwroot\getask\Website</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
+    <File Include="App_Config/Include/Rainbow.config">
+      <publishTime>07/18/2019 12:47:46</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.AutoPublish.config">
+      <publishTime>07/18/2019 12:47:47</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.config">
+      <publishTime>07/18/2019 12:47:47</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.Configs.Dependency.config.example">
+      <publishTime>07/18/2019 12:47:47</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.Configs.Feature.MyPosts.config">
+      <publishTime>07/18/2019 12:59:13</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.Configs.NewItemsOnly.example">
+      <publishTime>07/18/2019 12:47:47</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.CustomSerializationFolder.config.example">
+      <publishTime>07/18/2019 12:47:47</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.DataProvider.config">
+      <publishTime>07/18/2019 12:47:47</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.Deployed.config.disabled">
+      <publishTime>07/18/2019 12:47:47</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.Remote.config.disabled">
+      <publishTime>07/18/2019 12:47:47</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.UI.config">
+      <publishTime>07/18/2019 12:47:47</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.zSharedSecret.config.example">
+      <publishTime>07/18/2019 12:47:47</publishTime>
+    </File>
     <File Include="bin/Antlr3.Runtime.dll">
       <publishTime>09/10/2013 16:29:20</publishTime>
     </File>
@@ -25,10 +61,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/21/2019 17:17:50</publishTime>
     </File>
     <File Include="bin/Feature.MyPosts.dll">
-      <publishTime>07/17/2019 21:39:10</publishTime>
+      <publishTime>07/18/2019 12:59:14</publishTime>
     </File>
     <File Include="bin/Feature.MyPosts.pdb">
-      <publishTime>07/17/2019 21:39:10</publishTime>
+      <publishTime>07/18/2019 12:59:14</publishTime>
+    </File>
+    <File Include="bin/Kamsar.WebConsole.dll">
+      <publishTime>06/21/2013 21:58:30</publishTime>
+    </File>
+    <File Include="bin/MicroCHAP.dll">
+      <publishTime>10/11/2016 12:51:56</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
       <publishTime>06/27/2017 12:59:34</publishTime>
@@ -62,6 +104,15 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
       <publishTime>02/18/2018 08:44:54</publishTime>
+    </File>
+    <File Include="bin/Rainbow.dll">
+      <publishTime>11/18/2016 12:28:38</publishTime>
+    </File>
+    <File Include="bin/Rainbow.Storage.Sc.dll">
+      <publishTime>11/18/2016 12:28:38</publishTime>
+    </File>
+    <File Include="bin/Rainbow.Storage.Yaml.dll">
+      <publishTime>11/18/2016 12:28:40</publishTime>
     </File>
     <File Include="bin/roslyn/csc.exe">
       <publishTime>05/24/2018 13:38:22</publishTime>
@@ -230,6 +281,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="bin/System.Web.WebPages.Razor.dll">
       <publishTime>02/01/2018 11:20:56</publishTime>
+    </File>
+    <File Include="bin/Unicorn.dll">
+      <publishTime>11/18/2016 12:29:30</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
       <publishTime>01/23/2014 12:57:34</publishTime>

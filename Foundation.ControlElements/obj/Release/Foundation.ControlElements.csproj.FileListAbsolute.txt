@@ -90,3 +90,9 @@ C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Foundation.ControlElements\obj\R
 C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Foundation.ControlElements\obj\Release\Foundation.ControlElements.csproj.CopyComplete
 C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Foundation.ControlElements\obj\Release\Foundation.ControlElements.dll
 C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Foundation.ControlElements\obj\Release\Foundation.ControlElements.pdb
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Foundation.ControlElements\bin\Kamsar.WebConsole.dll
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Foundation.ControlElements\bin\MicroCHAP.dll
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Foundation.ControlElements\bin\Rainbow.dll
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Foundation.ControlElements\bin\Rainbow.Storage.Sc.dll
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Foundation.ControlElements\bin\Rainbow.Storage.Yaml.dll
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Foundation.ControlElements\bin\Unicorn.dll

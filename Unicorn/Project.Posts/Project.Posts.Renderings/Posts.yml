@@ -1,0 +1,14 @@
+﻿---
+ID: "e2d400cf-ab61-4977-af61-7f72878dc1c1"
+Parent: "f244f403-92bd-4a9f-b308-35dd48bc9a76"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/GeTask/Project/Posts
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190717T183558Z

@@ -1,0 +1,47 @@
+﻿---
+ID: "0bcbe42e-2875-4e5f-ad76-251bdb55e5b5"
+Parent: "b2562783-ed6c-4fa3-9708-022d8906a6fe"
+Template: "611d6aa5-94cd-4087-8352-f6962e43596f"
+Path: /sitecore/content/Home/GeTask/Project/Posts/Posts
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{76928D3B-C870-45BE-A45B-B831EF062E7C}">
+        <r
+          id="{A3C2A45D-1D5A-40E1-AA83-7A4D879F8260}"
+          ph="main"
+          uid="{A5D42D15-431B-46B1-A323-8D441EC48F00}" />
+        <r
+          ds="{5D5485FE-D9CC-470E-96AD-349310DA8F44}"
+          id="{C97F6DE6-BA25-459D-AEB4-56249561697A}"
+          par=""
+          ph="postsContent"
+          uid="{5BD57096-75AE-4D54-9943-C11E06FBF369}" />
+        <r
+          ds="{750EFC8C-18EC-4BFA-BB34-127BA714F245}"
+          id="{882AD792-E344-4973-8AB6-A4615BFEC23A}"
+          par=""
+          ph="tableControl"
+          uid="{74879735-75B3-4BD2-A756-6FCDCDD724F3}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190715T142124Z
+    - ID: "a13d8bff-b2aa-4e6b-a63c-1a156cfd0b10"
+      Hint: Description
+      Value: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+    - ID: "d6c74e8d-3818-4ebc-8eeb-4c328218431d"
+      Hint: Title
+      Value: My posts

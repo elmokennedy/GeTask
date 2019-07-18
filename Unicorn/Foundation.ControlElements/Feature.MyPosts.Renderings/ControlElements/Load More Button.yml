@@ -1,0 +1,21 @@
+﻿---
+ID: "882ad792-e344-4973-8ab6-a4615bfec23a"
+Parent: "80481154-6e24-4cc7-8ddc-ce837cdbea31"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/GeTask/Foundation/ControlElements/Load More Button
+DB: master
+SharedFields:
+- ID: "ded9e431-3604-4921-a4b3-a6ec7636a5b6"
+  Hint: Controller Action
+  Value: LoadMoreButton
+- ID: "e64ad073-dfcc-4d20-8c0b-fe5aa6226cd7"
+  Hint: Controller
+  Value: Button
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190716T151635Z

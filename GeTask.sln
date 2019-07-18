@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foundation.ControlElements"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foundation.DependencyInjection", "Foundation.DependencyInjection\Foundation.DependencyInjection.csproj", "{28FA0EBB-3967-41DD-8121-F30D65B2A19E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foundation.InitialScaffold", "Foundation.InitialScaffold\Foundation.InitialScaffold.csproj", "{220D30E7-8420-4AEC-A861-4361722BC75B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{28FA0EBB-3967-41DD-8121-F30D65B2A19E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28FA0EBB-3967-41DD-8121-F30D65B2A19E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28FA0EBB-3967-41DD-8121-F30D65B2A19E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{220D30E7-8420-4AEC-A861-4361722BC75B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{220D30E7-8420-4AEC-A861-4361722BC75B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{220D30E7-8420-4AEC-A861-4361722BC75B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{220D30E7-8420-4AEC-A861-4361722BC75B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +54,7 @@ Global
 		{A66A0206-5070-48E0-9AE9-C048D00FC0BD} = {F6757D4F-909D-4B7D-A98B-E0CF8F8610FC}
 		{7274AD96-7917-4D7C-929F-1C4BDBEB787E} = {20B026E3-1B67-4DD1-BFAD-53DAC042D864}
 		{28FA0EBB-3967-41DD-8121-F30D65B2A19E} = {20B026E3-1B67-4DD1-BFAD-53DAC042D864}
+		{220D30E7-8420-4AEC-A861-4361722BC75B} = {20B026E3-1B67-4DD1-BFAD-53DAC042D864}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4D79439C-4679-4E62-9156-872BD241B840}

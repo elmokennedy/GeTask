@@ -1,0 +1,24 @@
+﻿---
+ID: "33cf20de-2f1f-4929-a279-87a3d25e3ac4"
+Parent: "611d6aa5-94cd-4087-8352-f6962e43596f"
+Template: "611d6aa5-94cd-4087-8352-f6962e43596f"
+Path: /sitecore/templates/GeTask/Project/Posts/Posts Page/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190715T141645Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a13d8bff-b2aa-4e6b-a63c-1a156cfd0b10"
+      Hint: Description
+      Value: Posts Description
+    - ID: "d6c74e8d-3818-4ebc-8eeb-4c328218431d"
+      Hint: Title
+      Value: Posts Title

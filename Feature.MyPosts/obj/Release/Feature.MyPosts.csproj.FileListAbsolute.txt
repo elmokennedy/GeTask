@@ -95,3 +95,9 @@ C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Feature.MyPosts\bin\Autofac.Inte
 C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Feature.MyPosts\bin\Autofac.pdb
 C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Feature.MyPosts\bin\Autofac.xml
 C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Feature.MyPosts\bin\Autofac.Integration.Mvc.xml
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Feature.MyPosts\bin\Kamsar.WebConsole.dll
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Feature.MyPosts\bin\MicroCHAP.dll
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Feature.MyPosts\bin\Rainbow.dll
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Feature.MyPosts\bin\Rainbow.Storage.Sc.dll
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Feature.MyPosts\bin\Rainbow.Storage.Yaml.dll
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\Feature.MyPosts\bin\Unicorn.dll
