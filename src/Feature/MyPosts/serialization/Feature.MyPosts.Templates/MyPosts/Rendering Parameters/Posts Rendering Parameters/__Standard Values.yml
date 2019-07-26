@@ -1,0 +1,27 @@
+﻿---
+ID: "1e95e09b-7eef-4cdb-990d-6fca3153cd4c"
+Parent: "de881a95-6d9a-4696-b928-9ef1e6e58b8e"
+Template: "de881a95-6d9a-4696-b928-9ef1e6e58b8e"
+Path: /sitecore/templates/Feature/MyPosts/Rendering Parameters/Posts Rendering Parameters/__Standard Values
+DB: master
+SharedFields:
+- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
+  Hint: Caching
+  Value: 0|0|0|0|0|0|0|0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190725T133209Z
+    - ID: "b3a719a8-62ec-4815-9da0-df26b2e6db4f"
+      Hint: ItemsCount
+      Value: 5
+    - ID: "eaed4d81-81b3-4819-ba6d-565a11d1e7c0"
+      Hint: SourceLink
+      Value: "https://jsonplaceholder.typicode.com/posts"
+    - ID: "f12d3310-6351-46e1-8e71-a36806574aff"
+      Hint: LoadMoreItemsCount
+      Value: 3

@@ -1,0 +1,14 @@
+﻿---
+ID: "8534b7fa-1707-4fcc-b2d4-0640bdc7c452"
+Parent: "1d682fdb-725d-419f-a9be-569497b5df4b"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Feature/MyPosts
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190716T133202Z

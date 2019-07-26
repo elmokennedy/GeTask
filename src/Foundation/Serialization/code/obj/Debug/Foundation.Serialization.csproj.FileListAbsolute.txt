@@ -1,0 +1,13 @@
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\src\Foundation\Serialization\code\bin\Foundation.Serialization.dll.config
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\src\Foundation\Serialization\code\bin\Foundation.Serialization.dll
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\src\Foundation\Serialization\code\bin\Foundation.Serialization.pdb
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\src\Foundation\Serialization\code\bin\Kamsar.WebConsole.dll
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\src\Foundation\Serialization\code\bin\MicroCHAP.dll
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\src\Foundation\Serialization\code\bin\Rainbow.dll
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\src\Foundation\Serialization\code\bin\Rainbow.Storage.Sc.dll
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\src\Foundation\Serialization\code\bin\Rainbow.Storage.Yaml.dll
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\src\Foundation\Serialization\code\obj\Debug\Foundation.Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\src\Foundation\Serialization\code\obj\Debug\Foundation.Serialization.csproj.CopyComplete
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\src\Foundation\Serialization\code\obj\Debug\Foundation.Serialization.dll
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\src\Foundation\Serialization\code\obj\Debug\Foundation.Serialization.pdb
+C:\Users\Vitalii_Bondarenko\source\repos\GeTask\src\Foundation\Serialization\code\bin\Configy.dll

@@ -1,0 +1,36 @@
+﻿@model Feature.MyPosts.Models.PostsInfo
+@using Sitecore.Mvc
+
+<div style="margin-top: 20px; margin-bottom: 20px;">
+    <span style="font: bold 18px Arial;">@Html.Sitecore().Field("Title", Model.PostsInfoItem)</span>
+</div>
+<div style="margin-top: 20px; margin-bottom: 20px;">
+    @Html.Sitecore().Field("Discription", Model.PostsInfoItem)
+</div>
+
+<table id="postsTable" cellpadding="8" cellspacing="0" border="1">
+    <tr>
+        <th>@Html.Sitecore().Field("UserId", Model.PostsInfoItem)</th>
+        <th>@Html.Sitecore().Field("PostTitle", Model.PostsInfoItem)</th>
+        <th>@Html.Sitecore().Field("PostDescription", Model.PostsInfoItem)</th>
+    </tr>
+    @foreach (var post in Model.Posts)
+    {
+        <tr class="postItem">
+            <td style="text-align: center;">@post.UserId</td>
+            <td style="text-align: center;">@post.Title</td>
+            <td style="text-align: center;">@post.Body</td>
+        </tr>
+    }
+</table>
+
+<input type="hidden" id="loadMoreItemsCount" value="@Model.LoadMoreItemsCount" />
+
+@{var sourceLink = "\"" + Model.SourceLink + "\"";}
+
+<div style="margin-top: 20px; text-align: center;">
+    <button onclick='loadMore(@sourceLink)'>@Html.Sitecore().Field("LoadMoreButtonCaption", Model.PostsInfoItem)</button>
+</div>
+
+<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="Scripts/PostsLoader.js"></script>

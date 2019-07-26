@@ -1,0 +1,21 @@
+﻿---
+ID: "095b1b72-9baf-4679-a0a5-61ec86d3dab2"
+Parent: "ed85a892-967c-46f1-84bf-343c1f1d91b2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/MyPosts/Datasources/Posts Info/Table Info/PostDescription
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190725T090817Z

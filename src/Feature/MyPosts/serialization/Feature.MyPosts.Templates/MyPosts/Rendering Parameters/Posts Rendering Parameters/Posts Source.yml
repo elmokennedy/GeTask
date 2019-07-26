@@ -1,0 +1,18 @@
+﻿---
+ID: "a1f2bbed-5dc5-486b-8061-7fdae7cef653"
+Parent: "de881a95-6d9a-4696-b928-9ef1e6e58b8e"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/MyPosts/Rendering Parameters/Posts Rendering Parameters/Posts Source
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190725T133006Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

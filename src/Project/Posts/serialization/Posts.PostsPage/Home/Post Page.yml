@@ -1,0 +1,29 @@
+﻿---
+ID: "5d87e66b-e431-4e7a-a3de-b246fb214e62"
+Parent: "110d559f-dea5-42ea-9c1c-8a5df7e70ef9"
+Template: "e1cab344-8e4d-4fbd-a976-62de1b00ce21"
+Path: /sitecore/content/Home/Post Page
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{7BB764CE-FFFA-42B0-8901-D1CAA7051CFF}"
+          s:ds="{AD9EE433-34FA-40B5-B13F-C4B485FEAB65}"
+          s:par="SourceLink=https%3A%2F%2Fjsonplaceholder.typicode.com%2Fposts&amp;ItemsCount=5&amp;LoadMoreItemsCount=3" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190725T093807Z

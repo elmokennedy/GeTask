@@ -1,0 +1,36 @@
+﻿---
+ID: "82af5a0a-f947-4698-8629-032875ffd630"
+Parent: "6421aef7-849f-4287-9165-e43eed8a0c65"
+Template: "6421aef7-849f-4287-9165-e43eed8a0c65"
+Path: /sitecore/templates/Feature/MyPosts/Datasources/Posts Info/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "095b1b72-9baf-4679-a0a5-61ec86d3dab2"
+      Hint: PostDescription
+      Value: Description
+    - ID: "1d8d5d6a-00fb-4018-be36-3be7402b8908"
+      Hint: LoadMoreButtonCaption
+      Value: Load More
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190725T090827Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8067281d-c6dd-43b2-b430-1c4c44c6c15c"
+      Hint: Title
+      Value: My posts
+    - ID: "8d54f9c5-7877-49c5-8d96-390785a70484"
+      Hint: PostTitle
+      Value: Title
+    - ID: "be8133ff-c134-46b4-9945-f6199ebe22ee"
+      Hint: UserId
+      Value: UserId
+    - ID: "ea03f372-0a33-44d4-af9a-d36d9973a2e5"
+      Hint: Discription
+      Value: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum

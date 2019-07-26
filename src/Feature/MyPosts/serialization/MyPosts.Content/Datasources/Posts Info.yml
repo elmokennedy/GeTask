@@ -1,0 +1,20 @@
+﻿---
+ID: "ad9ee433-34fa-40b5-b13f-c4b485feab65"
+Parent: "9d150786-e2e3-4f80-b7b9-ac0bec9e62fe"
+Template: "6421aef7-849f-4287-9165-e43eed8a0c65"
+Path: /sitecore/content/Global/Datasources/Posts Info
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "095b1b72-9baf-4679-a0a5-61ec86d3dab2"
+      Hint: PostDescription
+      Value: Post Description
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190725T091847Z
+    - ID: "8d54f9c5-7877-49c5-8d96-390785a70484"
+      Hint: PostTitle
+      Value: Post Title

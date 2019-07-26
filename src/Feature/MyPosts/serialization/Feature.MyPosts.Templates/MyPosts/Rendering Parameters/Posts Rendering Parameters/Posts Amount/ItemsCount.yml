@@ -1,0 +1,21 @@
+﻿---
+ID: "b3a719a8-62ec-4815-9da0-df26b2e6db4f"
+Parent: "bea1f5cd-9a64-49b9-8a68-91047b1be569"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/MyPosts/Rendering Parameters/Posts Rendering Parameters/Posts Amount/ItemsCount
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Number
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190725T133031Z
