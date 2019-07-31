@@ -9,6 +9,8 @@ using System.Net;
 
 namespace Feature.MyPosts.Services
 {
+    using System;
+
     [Service(typeof(IPostService))]
     public class PostService : IPostService
     {
@@ -16,10 +18,18 @@ namespace Feature.MyPosts.Services
         {
             using (var client = new HttpClient())
             {
-                var responseBody = await client.GetStringAsync(source + "?_limit=" + count);
-                var posts = new List<Post>();
-                var serializer = new JavaScriptSerializer();
-                posts = serializer.Deserialize<List<Post>>(responseBody);
+                List<Post> posts;
+
+                try
+                {
+                    var responseBody = await client.GetStringAsync($"{source}?_limit={count}");
+                    var serializer = new JavaScriptSerializer();
+                    posts = serializer.Deserialize<List<Post>>(responseBody);
+                }
+                catch
+                {
+                    posts = new List<Post>();
+                }
 
                 return posts;
             }
@@ -29,9 +39,18 @@ namespace Feature.MyPosts.Services
         {
             using (var client = new WebClient())
             {
-                var json = client.DownloadString($"{source}?_limit=" + count);
-                var serializer = new JavaScriptSerializer();
-                var posts = serializer.Deserialize<List<Post>>(json);
+                List<Post> posts;
+
+                try
+                {
+                    var json = client.DownloadString($"{source}?_limit={count}");
+                    var serializer = new JavaScriptSerializer();
+                    posts = serializer.Deserialize<List<Post>>(json);
+                }
+                catch
+                {
+                    posts = new List<Post>();
+                }
 
                 return posts;
             }
